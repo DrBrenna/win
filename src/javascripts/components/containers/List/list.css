@@ -1,0 +1,78 @@
+
+.app-list-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background:#f4f2f2;
+}
+   .topbox{
+   
+    background: #fff;
+    width:100%;
+   
+    }
+
+    img{
+        width:100%;
+        display:block;
+    }
+    .topbox span{
+        display:block;
+        height:4rem;
+        text-align: center;
+        line-height: 4rem;
+        font-size: 18px;
+    }
+    .good-list{
+        
+        margin-top:10px;
+        background: #fff;
+    }
+    .goodbox{
+        box-sizing: border-box;
+        padding:1rem;
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .goodbox img{
+        height:10rem;
+        width:10rem;
+        
+    }
+    .rbox{
+        height:10rem;
+        display: flex;
+        flex:1;
+        flex-direction: column;
+        justify-content: space-between;
+        padding-left:10px;
+    }
+    .bottom{
+        
+        display: flex;
+        justify-content: space-between;
+        align-items: space-between;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

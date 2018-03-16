@@ -6,7 +6,7 @@ import Mine from '../javascripts/components/containers/Mine/Mine'
 import Login from '../javascripts/components/containers/Login/Login'
 import Register from '../javascripts/components/containers/Register/Register'
 import ShoppingCart from '../javascripts/components/containers/ShoppingCart/ShoppingCart'
-
+import List from '../javascripts/components/containers/List/List'
 const routeConfig = [
     { path: '/',
       component: App,
@@ -17,7 +17,8 @@ const routeConfig = [
         { path: 'login', component: Login },
         { path: 'register', component: Register },
         { path: 'shoppingcart', component: ShoppingCart },
-        { path: 'mine', component:Mine}
+        { path: 'mine', component:Mine},
+        { path: 'list', component:List}
       ]
     }
   ]

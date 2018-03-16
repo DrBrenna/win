@@ -1,0 +1,1 @@
+export const SET_GOOD_LIST='SET_GOOD_LIST'
