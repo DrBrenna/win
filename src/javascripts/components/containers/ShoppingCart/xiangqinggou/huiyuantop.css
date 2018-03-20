@@ -1,0 +1,11 @@
+.huiyuan-top{
+	height:40px;background:aliceblue;
+	display:flex;
+	
+}
+.huiyuanshangcheng{
+	align-items: center;
+	color:#333;
+	position:absolute;
+	top:10px;bottom:0;left:150px;
+}

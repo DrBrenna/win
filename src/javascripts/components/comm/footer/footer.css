@@ -1,0 +1,32 @@
+.app-list-footer{
+	position:fixed;
+	bottom:0;
+	width:100%;
+	
+}
+.app-list-footer-info{
+width:20%;float:left;
+	z-index:100;
+
+}
+.app-list-footer-info div{
+	display:flex;
+	flex-direction: column;
+	justify-content: space-around;
+
+
+}
+i{font-style:normal;}
+.icon-bg-img{
+	width:40%;font-size:14px;
+	text-align:center;
+	line-height:14px;
+	align-self: center;
+}
+.app-info-content{
+	display:flex;justify-content: center;
+}
+.footer-info-title{
+	text-align:center;
+}
+
