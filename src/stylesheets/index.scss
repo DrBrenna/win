@@ -1,0 +1,15 @@
+@import './_reset.scss';
+
+html {
+    font-size:46.875px;
+    background: #f4f4f8;
+}
+body {
+    width: 16rem;
+    margin: 0 auto;
+    overflow-x: hidden;
+    font-family: PingFang-SC-Regular,Helvetica Neue,Helvetica,Droid Sans Fallback,microsoft yahei,sans-serif;
+}
+a{
+    color: rgb(153, 153, 153);
+}
